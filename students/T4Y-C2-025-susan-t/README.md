@@ -3,10 +3,10 @@
 👋 Hi, I'm Susan.
 
 **Why I joined Tech4Youth:**
-<!-- Write one sentence here -->
+ I joined Tech4Youth because I want to expand my knowledge of technology, develop practical AI skills and explore new opportunities in the tech industry.
 
 **What I want to build with AI:**
-<!-- Write one sentence here -->
+I want to build intelligent solutions and applications that solve real-life problems, simplify everyday tasks and create meaningful impact through AI.
 
 ## My work
 | Week | Lab | Homework |
