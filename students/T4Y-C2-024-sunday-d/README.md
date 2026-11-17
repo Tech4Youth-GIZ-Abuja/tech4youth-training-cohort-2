@@ -3,10 +3,10 @@
 👋 Hi, I'm Sunday.
 
 **Why I joined Tech4Youth:**
-<!-- Write one sentence here -->
+I joined Tech4Youth to deepen my software development skills, explore the possibilities of AI, and learn how to build technology that solves real-world problems.
 
 **What I want to build with AI:**
-<!-- Write one sentence here -->
+I want to build practical AI-powered applications and intelligent agents that solve everyday problems, make work easier, and create real value for people and businesses.
 
 ## My work
 | Week | Lab | Homework |
