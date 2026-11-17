@@ -3,10 +3,10 @@
 👋 Hi, I'm Paul.
 
 **Why I joined Tech4Youth:**
-<!-- Write one sentence here -->
+I joined Tech4Youth to gain practical knowledge of artificial intelligence, improve my technical skills, and learn how to use technology to solve real-world problems
 
 **What I want to build with AI:**
-<!-- Write one sentence here -->
+An application that helps people manage daily activities, set reminders, organize tasks, and access useful information.
 
 ## My work
 | Week | Lab | Homework |
