@@ -3,10 +3,10 @@
 👋 Hi, I'm Brenda.
 
 **Why I joined Tech4Youth:**
-<!-- Write one sentence here -->
+I joined Tech4Youth to connect with a driven community of young innovators, gain practical technical skills, and turn my ideas into real-world impact.
 
 **What I want to build with AI:**
-<!-- Write one sentence here -->
+I want to build simple, affordable AI tools that help everyday people and small local businesses save time on daily tasks and learn new skills more easily.
 
 ## My work
 | Week | Lab | Homework |
