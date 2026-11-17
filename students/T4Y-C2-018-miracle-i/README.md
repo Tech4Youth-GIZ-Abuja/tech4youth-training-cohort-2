@@ -3,10 +3,10 @@
 👋 Hi, I'm Miracle.
 
 **Why I joined Tech4Youth:**
-<!-- Write one sentence here -->
+<!-- I joined Tech4Youth because I want to be like Tutor Clinton; learn about AI and be able to continue learning through teaching and helping others improve their AI knowledge -->
 
 **What I want to build with AI:**
-<!-- Write one sentence here -->
+<!-- Interesting, I have never thought about what I can build. Maybe an AI Agent that helps with my EA job. That would mean me having my own personal assistant that is able to do routine tasks either with ML. DL or Gen AI -->
 
 ## My work
 | Week | Lab | Homework |
