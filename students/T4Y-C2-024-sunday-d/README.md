@@ -8,6 +8,9 @@ I joined Tech4Youth to deepen my software development skills, explore the possib
 **What I want to build with AI:**
 I want to build practical AI-powered applications and intelligent agents that solve everyday problems, make work easier, and create real value for people and businesses.
 
+**Skills I have:**
+Python, JavaScript, React, FastAPI, Git, GitHub, HTML, CSS, and working with databases and APIs.
+
 ## My work
 | Week | Lab | Homework |
 |------|-----|----------|
