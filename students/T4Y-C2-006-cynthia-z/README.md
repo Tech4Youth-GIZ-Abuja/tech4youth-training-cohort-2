@@ -3,10 +3,10 @@
 👋 Hi, I'm Cynthia.
 
 **Why I joined Tech4Youth:**
-<!-- Write one sentence here -->
+I joined Tech4Youth to gain practical AI skills and professional certifications that will help me grow my digital career and integrate innovative technology into my fashion design business. 
 
 **What I want to build with AI:**
-<!-- Write one sentence here -->
+I want to build an AI-powered fashion design platform that helps customers visualise, customise, and create unique outfits, including clothing, shoes, bags, and accessories, while expanding my fashion business.
 
 ## My work
 | Week | Lab | Homework |
