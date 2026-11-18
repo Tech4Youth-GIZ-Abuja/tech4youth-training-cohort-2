@@ -3,10 +3,10 @@
 👋 Hi, I'm Joshua.
 
 **Why I joined Tech4Youth:**
-<!-- Write one sentence here -->
+<!-- I joined Tech4Youth to learn ways to leverage AI for agentic coding, Multi modal AI Integration into website builds, -->
 
 **What I want to build with AI:**
-<!-- Write one sentence here -->
+<!-- An Ai automated email campaign sequence system that helps reduce spam bounce rate, while retaining 15% reply rate, with warm email setup and sentiment analysis -->
 
 ## My work
 | Week | Lab | Homework |
