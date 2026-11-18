@@ -3,12 +3,11 @@
 👋 Hi, I'm Goodness.
 
 **Why I joined Tech4Youth:**
-<!-- Write one sentence here -->
+To enhance my skills in ai automation and to make money
 
 **What I want to build with AI:**
-<!-- Write one sentence here -->
+I want to build an AI-powered contract analysis tool that allows users to upload or paste contracts, terms and conditions, or privacy policies. 
 
-## My work
 | Week | Lab | Homework |
 |------|-----|----------|
 | 01 | [lab](week-01/lab) | [homework](week-01/homework) |
