@@ -3,10 +3,10 @@
 👋 Hi, I'm Jessica.
 
 **Why I joined Tech4Youth:**
-<!-- Write one sentence here -->
+<i joined tech4youth to learn how to use Ai tools to make administrative duties easier and faster and also v to improve my ICT skills>
 
 **What I want to build with AI:**
-<!-- Write one sentence here -->
+<i want to build an agent who'd serve as my personal assistant>
 
 ## My work
 | Week | Lab | Homework |
