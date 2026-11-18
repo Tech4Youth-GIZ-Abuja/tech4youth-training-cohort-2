@@ -3,11 +3,9 @@
 👋 Hi, I'm Gift.
 
 **Why I joined Tech4Youth:**
-<!-- Write one sentence here -->
-
+I joined Tech4Youth because I am committed to developing practical technology skills and building solutions that address real-world problems. I want to strengthen my technical knowledge, gain hands-on experience, and learn how to approach challenges with a problem-solving mindset. I see this programme as an opportunity to grow, challenge myself, collaborate with other aspiring tech professionals, and prepare for meaningful opportunities in the technology industry. My goal is not just to learn, but to become skilled enough to create useful solutions and contribute positively to society.
 **What I want to build with AI:**
-<!-- Write one sentence here -->
-
+I want to build AI-powered solutions that improve how businesses and agricultural operations function. Drawing from my experience in operations management, I am interested in using AI to automate processes, improve resource management, monitor performance, streamline workflows, and support better decision-making. In the agricultural sector, I want to develop a Smart Farming Assistant that helps farmers plan activities, manage resources, monitor crops, predict yields, and reduce losses. My goal is to build practical technology solutions that solve real-world problems, improve efficiency, and create measurable impact for businesses and farmers, particularly in Nigeria.
 ## My work
 | Week | Lab | Homework |
 |------|-----|----------|
