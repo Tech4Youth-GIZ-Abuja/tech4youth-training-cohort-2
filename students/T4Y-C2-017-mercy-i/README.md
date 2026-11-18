@@ -3,10 +3,10 @@
 👋 Hi, I'm Mercy.
 
 **Why I joined Tech4Youth:**
-<!-- Write one sentence here -->
+I joined tech for youth because i want to have an idea or knowledge on what AI entails and how it can be applied in my day to day activities or my in any industry i find myself.
 
 **What I want to build with AI:**
-<!-- Write one sentence here -->
+An app or website that would help people with disabilities.
 
 ## My work
 | Week | Lab | Homework |
