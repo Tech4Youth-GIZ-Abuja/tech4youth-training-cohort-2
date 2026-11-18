@@ -3,10 +3,10 @@
 👋 Hi, I'm Mary.
 
 **Why I joined Tech4Youth:**
-<!-- Write one sentence here -->
+<!I am a computer Science graduate trying to explore my way in tech through Tech4youth>
 
 **What I want to build with AI:**
-<!-- Write one sentence here -->
+<I hope I can achieve my dreams and grow in my AI Automation journey.>
 
 ## My work
 | Week | Lab | Homework |
