@@ -3,7 +3,7 @@
 👋 Hi, I'm Joshua.
 
 **Why I joined Tech4Youth:**
-<!-- Write one sentence here -->
+<!-- Write one sentence here --> 
 
 **What I want to build with AI:**
 <!-- Write one sentence here -->
