@@ -3,10 +3,9 @@
 👋 Hi, I'm Aishat.
 
 **Why I joined Tech4Youth:**
-<!-- Write one sentence here -->
-
+ I joined Tech4Youth because my background is in education with basics technical skills, and I want to extend my knowledge and widen my horizon on how to AI to make everyday work easier and more useful for people in various specified activities.
 **What I want to build with AI:**
-<!-- Write one sentence here -->
+ I want to build with AI is a platform that helps people turn raw busines ideas into fully developed brands, from naming, visual identity to website creation and digital presence.
 
 ## My work
 | Week | Lab | Homework |
