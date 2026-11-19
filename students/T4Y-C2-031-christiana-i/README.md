@@ -3,11 +3,11 @@
 👋 Hi, I'm Christiana.
 
 **Why I joined Tech4Youth:**
-<!-- Write one sentence here -->
+I joined because i want to be on the same pace with the trending technology.
 
 **What I want to build with AI:**
-<!-- Write one sentence here -->
-
+I want to use AI to build bible stories for children, build a 
+business and create contents
 ## My work
 | Week | Lab | Homework |
 |------|-----|----------|
