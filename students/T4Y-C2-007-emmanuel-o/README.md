@@ -3,10 +3,9 @@
 👋 Hi, I'm Emmanuel.
 
 **Why I joined Tech4Youth:**
-<!-- Write one sentence here -->
-
+i joined AI because, i want to expand my knowledge develop new skills nd prepare myself for the future
 **What I want to build with AI:**
-<!-- Write one sentence here -->
+i want to build innovative AI-powered solutions that solve real-life problems, make everyday tasks easier, and create opportunities for individuals and businesses.
 
 ## My work
 | Week | Lab | Homework |
@@ -19,3 +18,4 @@
 | 06 | [lab](week-06/lab) | [homework](week-06/homework) |
 | 07 | [lab](week-07/lab) | [homework](week-07/homework) |
 | 08 | [lab](week-08/lab) | [homework](week-08/homework) |
+studentid007
