@@ -2,10 +2,10 @@
 
 👋 Hi, I'm Udochi.
 
-**Why I joined Tech4Youth:**
+*I joined Tech for Youth to turn my curiosity about AI into real, practical skills. 
 <!-- Write one sentence here -->
 
-**What I want to build with AI:**
+*I hope to build AI-powered tools that solve everyday problems for small businesses, like automated marketing and customer support, creating jobs and opportunities for young people.
 <!-- Write one sentence here -->
 
 ## My work
