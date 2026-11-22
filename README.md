@@ -91,3 +91,4 @@ Your pull request updates automatically.
 | **main** | The official version that holds everyone's accepted work |
 
 Need help? Ask in class, or write a comment on your pull request.
+when i seriously need help, i will ask for it 
