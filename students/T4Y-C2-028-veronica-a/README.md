@@ -4,9 +4,11 @@
 
 **Why I joined Tech4Youth:**
 <!-- Write one sentence here -->
+ I joined Tech4Youth to gain practical AI skills, learn how artificial intelligence works, and prepare myself for better career opportunities in technology.
 
 **What I want to build with AI:**
 <!-- Write one sentence here -->
+I want to build an AI-powered customer support chatbot that can answer customers' questions, solve problems, and make businesses serve their customers better.
 
 ## My work
 | Week | Lab | Homework |
