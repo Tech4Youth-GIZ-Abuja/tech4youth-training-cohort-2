@@ -3,10 +3,10 @@
 👋 Hi, I'm Nakaya.
 
 **Why I joined Tech4Youth:**
-<!-- Write one sentence here -->
+to get more knowledge on AI and improve my skills
 
 **What I want to build with AI:**
-<!-- Write one sentence here -->
+i want to explore AI, particularly AI youtube animation
 
 ## My work
 | Week | Lab | Homework |
