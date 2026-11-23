@@ -3,10 +3,10 @@
 👋 Hi, I'm Osita.
 
 **Why I joined Tech4Youth:**
-<!-- I joined Tech4Youth because i love AI and i will love to acquire AI skills to improve myself and be job ready. -->
+I joined Tech4Youth because i love AI and i will love to acquire AI skills to improve myself and be job ready.
 
 **What I want to build with AI:**
-<!-- i will like to build a school system solution that links all teaching staff, non teaching staff, admins, and students to communicate easily and get necessary information for smooth running of the school -->
+i will like to build a school system solution that links all teaching staff, non teaching staff, admins, and students to communicate easily and get necessary information for smooth running of the school 
 
 ## My work
 | Week | Lab | Homework |
