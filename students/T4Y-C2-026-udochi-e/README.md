@@ -1,6 +1,7 @@
 # Udochi E. — T4Y-C2-026
 
 👋 Hi, I'm Udochi.
+
 *why I joined Tech4Youth*:
 
 *I joined Tech for Youth to turn my curiosity about AI into real, practical skills. 
