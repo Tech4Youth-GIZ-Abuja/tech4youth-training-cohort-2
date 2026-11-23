@@ -3,10 +3,10 @@
 👋 Hi, I'm Zainab.
 
 **Why I joined Tech4Youth:**
-<!-- I joined tech4youth because I am passionate about the opportunities that tech provides and how it has advanced over the years, so joining the training is an opportunity to advance my skills and scale up in my career -->
+I joined tech4youth because I am passionate about the opportunities that tech provides and how it has advanced over the years, so joining the training is an opportunity to advance my skills and scale up in my career
 
 **What I want to build with AI:**
-<!-- I want to build a tool that helps people discover what they can do, prove their abilities and find opportunities to earn income-->
+I want to build a tool that helps people discover what they can do, prove their abilities and find opportunities to earn income.
 
 ## My work
 | Week | Lab | Homework |
