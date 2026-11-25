@@ -3,10 +3,10 @@
 👋 Hi, I'm Comfort.
 
 **Why I joined Tech4Youth:**
-<!-- Write one sentence here -->
+<!-- i joined tech4youth to learn a new skill in Ai engineering  -->
 
 **What I want to build with AI:**
-<!-- Write one sentence here -->
+<! -- I want to build an app that helps nurses in their day-to-day patient care and documentation -->
 
 ## My work
 | Week | Lab | Homework |
