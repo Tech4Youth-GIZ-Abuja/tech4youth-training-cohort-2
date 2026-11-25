@@ -3,10 +3,10 @@
 👋 Hi, I'm Glory.
 
 **Why I joined Tech4Youth:**
-<!-- Write one sentence here -->
+i joined because i want to be able to build a product using Ai.
 
 **What I want to build with AI:**
-<!-- Write one sentence here -->
+a dating app 
 
 ## My work
 | Week | Lab | Homework |
