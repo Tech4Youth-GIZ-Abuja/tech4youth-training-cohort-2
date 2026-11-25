@@ -3,10 +3,10 @@
 👋 Hi, I'm Osita.
 
 **Why I joined Tech4Youth:**
-<!-- Write one sentence here -->
+I joined this training because i love AI and i will love to improve my skills on it and be job ready
 
 **What I want to build with AI:**
-<!-- Write one sentence here -->
+i will like to build a full school management system that will ease the work for all teaching staff, management staff and students
 
 ## My work
 | Week | Lab | Homework |
