@@ -2,11 +2,13 @@
 
 👋 Hi, I'm Joy.
 
+I'm interested in technology, software development, and artificial intelligence.
+
 **Why I joined Tech4Youth:**
-<!-- Write one sentence here -->
+I joined Tech4Youth to improve my technical skills, learn more about AI, and gain practical experience building technology solutions.
 
 **What I want to build with AI:**
-<!-- Write one sentence here -->
+I want to build useful AI-powered applications that solve everyday problems and make people's lives easier.
 
 ## My work
 | Week | Lab | Homework |
@@ -19,3 +21,7 @@
 | 06 | [lab](week-06/lab) | [homework](week-06/homework) |
 | 07 | [lab](week-07/lab) | [homework](week-07/homework) |
 | 08 | [lab](week-08/lab) | [homework](week-08/homework) |
+
+**Student ID:** T4Y-C2-014
+
+**Programme:** Tech4Youth Cohort 2
