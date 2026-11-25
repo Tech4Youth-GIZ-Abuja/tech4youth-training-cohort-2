@@ -3,10 +3,10 @@
 👋 Hi, I'm Norah.
 
 **Why I joined Tech4Youth:**
-<!-- Write one sentence here -->
+to know more about programming and ai automation 
 
 **What I want to build with AI:**
-<!-- Write one sentence here -->
+after the course i want to be a pro in programming and Ai automation
 
 ## My work
 | Week | Lab | Homework |
