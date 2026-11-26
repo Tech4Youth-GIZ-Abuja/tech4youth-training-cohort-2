@@ -3,10 +3,10 @@
 👋 Hi, I'm Samson.
 
 **Why I joined Tech4Youth:**
-<!-- Write one sentence here -->
+<!-- To build a practical expereience and job-ready AI skills to solve real problems and automate business workflow -->
 
 **What I want to build with AI:**
-<!-- Write one sentence here -->
+<!-- After my learning, i would like to build a project around AI agents and automation -->
 
 ## My work
 | Week | Lab | Homework |
