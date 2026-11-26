@@ -1,0 +1,15 @@
+{
+    "name": "christy",
+    "city": "Abuja",
+    "age": 34,
+    "networth": 20000000000,
+    "favorite_food":[
+         "okro soup","rice"
+    ],
+
+    "skills": [ 
+                "python",
+                "beginner"
+]
+            
+}
