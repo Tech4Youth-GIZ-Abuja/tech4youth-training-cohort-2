@@ -3,12 +3,13 @@
 👋 Hi, I'm Goodness.
 
 **Why I joined Tech4Youth:**
-To enhance my skills in ai automation and to make money
+I am currently learning AI to enhance my skills in ai automation and to make money. I am also a tech enthusiast and enjoy being able to build systems through my screen using ai
+
 
 **What I want to build with AI:**
-I want to build an AI-powered contract analysis tool that allows users to upload or paste contracts, terms and conditions, or privacy policies. 
+Real world systems and automations
 
-My work
+## My work
 | Week | Lab | Homework |
 |------|-----|----------|
 | 01 | [lab](week-01/lab) | [homework](week-01/homework) |
