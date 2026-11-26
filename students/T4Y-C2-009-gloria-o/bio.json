@@ -1,0 +1,11 @@
+{
+    "name": "Gloria",
+    "city": "Abuja",
+    "age" :   19,
+    "networth": 1000000000000000000000000000000000000000000000000000000000000,
+    "favorite_foods": ["rice", "beans", "fish", "meat", "friuts"],
+    "skills": {
+        "name": "Python",
+        "Level": "Beginner"
+    }
+}
