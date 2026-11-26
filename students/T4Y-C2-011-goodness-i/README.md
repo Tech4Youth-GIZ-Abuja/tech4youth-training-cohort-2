@@ -3,10 +3,11 @@
 👋 Hi, I'm Goodness.
 
 **Why I joined Tech4Youth:**
-<!-- Write one sentence here -->
+I am currently learning AI to enhance my skills in ai automation and to make money. I am also a tech enthusiast and enjoy being able to build systems through my screen using ai
+
 
 **What I want to build with AI:**
-<!-- Write one sentence here -->
+Real world systems and automations
 
 ## My work
 | Week | Lab | Homework |
