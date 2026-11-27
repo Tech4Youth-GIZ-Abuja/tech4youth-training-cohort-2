@@ -1,0 +1,17 @@
+{
+  "name": "Mary Atondo",
+  "city": "Abuja",
+  "age": 29,
+  "Networth": 10000050,
+  "favourite_foods": [
+    "Plantain",
+    "Rice and Beans",
+    "Eggs"
+  ],
+  "skills": [
+    "Python",
+    "React"
+    
+  ]
+
+}
