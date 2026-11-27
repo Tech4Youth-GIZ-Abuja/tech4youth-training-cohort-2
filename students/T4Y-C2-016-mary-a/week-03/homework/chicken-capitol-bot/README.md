@@ -9,5 +9,5 @@
 ​Menu Prices: Provides pricing information for items on the menu.
 ​🛠️ Technologies Used
 ​HTML: Structures the chat interface and web page layout.
-​JavaScript: Handles user input, interactive chat behavior, and communication with the backend.
-​Python: Creats the bot that Powers the backend logic and processes customer questions to return accurate responses.
+​​JavaScript: Handles user input and chooses the bot's replies in the browser.
+​Python: Bot.py is a terminal version of the same bot, with the same rules.
