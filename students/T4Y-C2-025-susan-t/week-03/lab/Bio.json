@@ -1,0 +1,14 @@
+{
+    "name": "Susan",
+    "city": "Abuja",
+    "age": 34,
+    "networth": 99900000000,
+    "favorite_food": "Spaghetti Napolitano",
+    "skills": {
+                "name": "python",
+                "level": "beginner"
+    
+    }
+
+}
+    
