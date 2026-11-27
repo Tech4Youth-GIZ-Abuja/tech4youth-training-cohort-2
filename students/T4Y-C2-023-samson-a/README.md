@@ -1,6 +1,7 @@
 # Samson A. — T4Y-C2-023
 
-👋 Hi, I'm Samson.
+# About Me
+👋 Hi, I'm Samson: IT & Digital Transformation Professional | Applied AI Engineering Practitioner | Digital Growth Strategist
 
 **Why I joined Tech4Youth:**
 <!-- To build a practical expereience and job-ready AI skills to solve real problems and automate business workflow -->
